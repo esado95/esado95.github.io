@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.esado95.fullbody",
+    "sha256_cert_fingerprints": [
+      "83:62:F6:C6:5A:8D:1D:6F:3D:7E:49:EF:08:BB:A7:AC:3B:F8:D4:6E:EC:C7:0A:3B:0A:66:36:00:0A:2B:47:68"
+    ]
+  }
+}]
